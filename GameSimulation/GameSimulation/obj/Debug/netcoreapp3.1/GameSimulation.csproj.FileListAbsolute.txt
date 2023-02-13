@@ -1,8 +1,0 @@
-C:\Users\hp\Desktop\190705038_Doğukan Dursun\C# Dersleri\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csprojAssemblyReference.cache
-C:\Users\hp\Desktop\190705038_Doğukan Dursun\C# Dersleri\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\190705038_Doğukan Dursun\C# Dersleri\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfo.cs
-C:\Users\hp\Desktop\190705038_Doğukan Dursun\C# Dersleri\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csproj.CoreCompileInputs.cache
-C:\Users\hp\Desktop\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csprojAssemblyReference.cache
-C:\Users\hp\Desktop\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.AssemblyInfo.cs
-C:\Users\hp\Desktop\GameSimulation\GameSimulation\obj\Debug\netcoreapp3.1\GameSimulation.csproj.CoreCompileInputs.cache
