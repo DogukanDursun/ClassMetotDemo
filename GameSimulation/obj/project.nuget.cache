@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubMjk+rRUgAeuXssM8XkE4uy2gTdIjCuUE2C4TdHM6RuF7BHcmtPoF8wr2HrKiEJ+4euRwwNUSjMdNvNLy0wcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\190705038_Doğukan Dursun\\C# Dersleri\\GameSimulation\\GameSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
