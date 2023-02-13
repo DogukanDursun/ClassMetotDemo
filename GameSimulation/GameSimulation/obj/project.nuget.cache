@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "969ZA4wsGh1EC4dZMcUY9H1HaR7RSErUEne7A0SDJ/pxDluL5UeybOtJIs5BQJcKtbuSc/Q6H5RCRn/NeC1Yew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\GameSimulation\\GameSimulation\\GameSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
